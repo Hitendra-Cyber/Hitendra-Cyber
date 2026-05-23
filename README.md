@@ -34,7 +34,7 @@ operator = {
     "name"      : "Hitendra Singh Panwar",
     "handle"    : "Hitendra-Cyber",
     "college"   : "JIET Group of Institutions, Jodhpur",
-    "coords"    : "28.0268°N, 73.3120°E  →  Jodhpur, Rajasthan 🇮🇳",
+    "coords"    : "26.148964592334192, 73.0465905401739 →  Jodhpur, Rajasthan 🇮🇳",
     "role"      : ["Data Engineer", "Cyber Defender", "AI Builder"],
 
     "current_ops": [
