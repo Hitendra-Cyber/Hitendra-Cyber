@@ -198,7 +198,6 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 ```
   CHANNEL        ENDPOINT
   ─────────────────────────────────────────────────────────────────────────
-  [LinkedIn]  →  https://www.linkedin.com/in/hitendra-singh-panwar-452117408/
   [GitHub]    →  https://github.com/Hitendra-Cyber
   [Portfolio] →  https://portfolio.hitendra-24jicys012.workers.dev/
   [SOC App]   →  https://threat-soc-dashboard.streamlit.app/
