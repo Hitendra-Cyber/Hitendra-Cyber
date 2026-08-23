@@ -153,6 +153,11 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 
 ---
 
+---
+
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c06899b7-d474-4d46-93d6-2b50fc02474e.jpeg?v=1787502041)](https://www.boot.dev/certificates/c06899b7-d474-4d46-93d6-2b50fc02474e)
+---
+
 ```
 [ CLEARANCE BADGES — MICROSOFT LEARN ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
