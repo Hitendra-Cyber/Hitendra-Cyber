@@ -153,9 +153,6 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 
 ---
 
----
-[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/aae4ebb7-cde5-457e-8316-0c1829a8d438.jpeg?v=1787632655)](https://www.boot.dev/certificates/aae4ebb7-cde5-457e-8316-0c1829a8d438)
----
 
 ---
 
@@ -164,6 +161,9 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 
 ---
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7d2380b9-532c-4150-936f-383857ee8df7.jpeg?v=1787585469)](https://www.boot.dev/certificates/7d2380b9-532c-4150-936f-383857ee8df7)
+---
+---
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/aae4ebb7-cde5-457e-8316-0c1829a8d438.jpeg?v=1787632655)](https://www.boot.dev/certificates/aae4ebb7-cde5-457e-8316-0c1829a8d438)
 ---
 
 ```
