@@ -166,6 +166,10 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/aae4ebb7-cde5-457e-8316-0c1829a8d438.jpeg?v=1787632655)](https://www.boot.dev/certificates/aae4ebb7-cde5-457e-8316-0c1829a8d438)
 ---
 
+---
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0392e10e-4e55-4c1c-9e7b-eaa00488f325.jpeg?v=1787802482)](https://www.boot.dev/certificates/0392e10e-4e55-4c1c-9e7b-eaa00488f325)
+---
+
 ```
 [ CLEARANCE BADGES — MICROSOFT LEARN ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
