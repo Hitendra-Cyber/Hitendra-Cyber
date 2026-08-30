@@ -168,6 +168,11 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 ---
 
 ---
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/1e8eae88-be70-4b94-9b51-40479768e2c0.jpeg?v=1788093297)](https://www.boot.dev/certificates/1e8eae88-be70-4b94-9b51-40479768e2c0)
+
+---
+
+---
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7d2380b9-532c-4150-936f-383857ee8df7.jpeg?v=1787585469)](https://www.boot.dev/certificates/7d2380b9-532c-4150-936f-383857ee8df7)
 ---
 
