@@ -173,6 +173,10 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 ---
 
 ---
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/94bb314f-9886-4fe1-9762-a3be6f2378b9.jpeg?v=1789838808)](https://www.boot.dev/certificates/94bb314f-9886-4fe1-9762-a3be6f2378b9)
+---
+
+---
 [![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/64ff9bf6-efad-40c3-abd9-3e2dad035898.jpeg?v=1788631827)](https://www.boot.dev/certificates/64ff9bf6-efad-40c3-abd9-3e2dad035898)
 ---
 
