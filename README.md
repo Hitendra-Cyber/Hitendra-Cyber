@@ -173,13 +173,14 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 ---
 
 ---
-[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/94bb314f-9886-4fe1-9762-a3be6f2378b9.jpeg?v=1789838808)](https://www.boot.dev/certificates/94bb314f-9886-4fe1-9762-a3be6f2378b9)
----
-
----
 [![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/64ff9bf6-efad-40c3-abd9-3e2dad035898.jpeg?v=1788631827)](https://www.boot.dev/certificates/64ff9bf6-efad-40c3-abd9-3e2dad035898)
 ---
-
+---
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/94bb314f-9886-4fe1-9762-a3be6f2378b9.jpeg?v=1789838808)](https://www.boot.dev/certificates/94bb314f-9886-4fe1-9762-a3be6f2378b9)
+---
+---
+[![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fd977e93-687a-4987-a4d1-a63dca30ddc0.jpeg?v=1790052489)](https://www.boot.dev/certificates/fd977e93-687a-4987-a4d1-a63dca30ddc0)
+---
 ---
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7d2380b9-532c-4150-936f-383857ee8df7.jpeg?v=1787585469)](https://www.boot.dev/certificates/7d2380b9-532c-4150-936f-383857ee8df7)
 ---
