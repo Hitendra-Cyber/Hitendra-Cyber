@@ -188,6 +188,9 @@ DOMAIN                     TOOLS / TECHNOLOGIES
 ---
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0392e10e-4e55-4c1c-9e7b-eaa00488f325.jpeg?v=1787802482)](https://www.boot.dev/certificates/0392e10e-4e55-4c1c-9e7b-eaa00488f325)
 ---
+---
+[![Boot.dev Build a Static Site Generator in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/71166952-8671-447c-975f-33a80d97679c.jpeg?v=1791127868)](https://www.boot.dev/certificates/71166952-8671-447c-975f-33a80d97679c)
+---
 
 ```
 [ CLEARANCE BADGES — MICROSOFT LEARN ]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
