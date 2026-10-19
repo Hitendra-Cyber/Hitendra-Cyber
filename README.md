@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00FF41&height=180&section=header&text=Hitendra%20Singh%20Panwar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Cyber%20Defender%20%C2%B7%20AI%20Builder&descAlignY=60&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Initializing+profile...+OK;%5BSYS%5D+Loading+threat+intelligence+modules...+OK;%5BSYS%5D+Mounting+data+pipelines...+OK;%5BSYS%5D+Establishing+secure+connection...+OK;%5BAUTH%5D+Welcome%2C+operator.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Initializing+profile...+OK;%5BSYS%5D+Loading+ML+security+modules...+OK;%5BSYS%5D+Mounting+data+pipelines...+OK;%5BSYS%5D+Learning+backend+with+Boot.dev...+OK;%5BAUTH%5D+Welcome%2C+operator.)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Jodhpur%2C_India-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=00FF41)
 ![Status](https://img.shields.io/badge/Status-Building-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41)
-![Focus](https://img.shields.io/badge/Focus-Data_%C2%B7_Security_%C2%B7_AI-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF41)
-![SC-900](https://img.shields.io/badge/Microsoft-SC--900_In_Progress-0a0a0a?style=for-the-badge&logo=microsoft&logoColor=00FF41)
+![Learning](https://img.shields.io/badge/Learning-Boot.dev_Backend-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![Focus](https://img.shields.io/badge/Focus-ML_%C2%B7_Security_%C2%B7_Data-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF41)
 
 > **"Raw data is noise. Clean data is intelligence."**
 
@@ -25,17 +25,16 @@ operator = {
     "roles"  : ["Data Engineer", "Cyber Defender", "AI Builder"],
 
     "current_ops": [
-        "Threat monitoring via SOC dashboards",
-        "Data quality pipelines & automation",
-        "Fake news & misinformation detection",
-        "Food waste analytics & predictive replenishment",
+        "Explainable ML for healthcare risk prediction",
+        "ML-based threat & intrusion detection",
+        "Backend development via Boot.dev (Python, Go-ready foundations)",
     ],
 
     "domains": [
-        "Cybersecurity (Threats · Auth · Crypto · Devices · Applications)",
+        "Machine Learning for Cybersecurity",
         "Data Engineering & Analytics",
-        "AI Workflows & Prompt Engineering",
-        "Full-Stack Web Deployment",
+        "Responsible AI (explainability, fairness, privacy)",
+        "Backend Development",
     ],
 }
 ```
@@ -46,120 +45,78 @@ operator = {
 
 | Domain | Tools & Technologies |
 |:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41) ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41) ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41) ![HTML](https://img.shields.io/badge/HTML%2FCSS-0a0a0a?style=flat-square&logo=html5&logoColor=00FF41) ![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=00FF41) |
-| **Data Stack** | ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=00FF41) ![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=00FF41) ![SciPy](https://img.shields.io/badge/SciPy-0a0a0a?style=flat-square&logo=scipy&logoColor=00FF41) ![SQLite](https://img.shields.io/badge/SQLite3-0a0a0a?style=flat-square&logo=sqlite&logoColor=00FF41) |
-| **Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-0a0a0a?style=flat-square&logo=powerbi&logoColor=00FF41) ![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0a?style=flat-square&logo=streamlit&logoColor=00FF41) Matplotlib · Seaborn |
-| **Deployment** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0a0a?style=flat-square&logo=cloudflare&logoColor=00FF41) ![Netlify](https://img.shields.io/badge/Netlify-0a0a0a?style=flat-square&logo=netlify&logoColor=00FF41) ![Render](https://img.shields.io/badge/Render-0a0a0a?style=flat-square&logo=render&logoColor=00FF41) ![Colab](https://img.shields.io/badge/Google_Colab-0a0a0a?style=flat-square&logo=googlecolab&logoColor=00FF41) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41) ![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41) ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41) ![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=00FF41) ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41) |
+| **ML & Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=00FF41) ![XGBoost](https://img.shields.io/badge/XGBoost-0a0a0a?style=flat-square&logoColor=00FF41) ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=00FF41) ![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=00FF41) SHAP · Pandera |
+| **Apps & Visualization** | ![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0a?style=flat-square&logo=streamlit&logoColor=00FF41) ![Plotly](https://img.shields.io/badge/Plotly-0a0a0a?style=flat-square&logo=plotly&logoColor=00FF41) |
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=00FF41) ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00FF41) ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=00FF41) |
-| **Security** | Threat Analysis · Cryptography · Authentication & Authorization · Device Security · Application Security |
-| **AI / ML** | Prompt Engineering · AI-Assisted Development Workflows |
-| **Methods** | EDA · Statistical Modeling · T-Testing · Rule-Based Automation · Dashboard Storytelling |
+| **Security** | Threat Intelligence · Intrusion Detection · Phishing Analysis · Data Privacy (DPDP Act) |
+| **Methods** | EDA · Model Calibration · Explainability (SHAP) · Fairness Auditing · Drift Monitoring |
 
 ---
 
 ## `> ls projects/`
 
-### 🛡️ Security & Intelligence
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-#### [SOC Threat Dashboard](https://threat-soc-dashboard.streamlit.app/)
-`LIVE` · Python · Streamlit
+### 🏥 [ReAdmit AI](https://github.com/Hitendra-Cyber/ReAdmit-AI)
+**30-day hospital readmission risk predictor** · Python · XGBoost · SHAP · Streamlit
 
-Real-time Security Operations Center monitoring platform with live threat feeds, incident severity tracking and SOC triage workflows.
+A clinical decision-support dashboard that scores discharged patients for readmission risk and explains every prediction.
+
+- Calibrated XGBoost model with isotonic probability calibration
+- SHAP explanations showing the top risk drivers per patient
+- Demographic fairness audit (AUC by gender and age band)
+- Privacy layer with PII anonymization, consent checks and access logging, designed around India's DPDP Act 2023
+- Model drift monitoring using PSI (features) and the KS test (predictions)
+- Pandera schema validation for bulk CSV uploads
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
-#### [Fake News Detection Engine](https://colab.research.google.com/drive/1lRIerESULC7BbtVDwZKUCRVmisC1zTf)
-`LIVE` · Python · Pandas · SciPy · SQLite3 · Power BI
+### 🛡️ [L.E.X.I.S.](https://github.com/Hitendra-Cyber/L.E.X.I.S.)
+**Log-based Evaluation & Cyber Threat Intelligence System** · Python · scikit-learn · Streamlit
 
-Misinformation detection and content-moderation pipeline. Engagement scoring, platform vulnerability mapping, and buzzword-frequency analysis that predicts report surges.
+A SOC-style security workspace made of independent ML-powered modules.
 
-**Key finding:** fake articles receive **10–15× more shares** than verified content.
+| Module | What it does | Live |
+|:--|:--|:--|
+| **AI Threat Intelligence System** | Unified SOC dashboard with malware family prediction, URL threat scanning and an AI security assistant | [Open ↗](https://ai-threat-intelli-sys.streamlit.app/) |
+| **Network IDS** | Multi-class intrusion detection on the CICIDS2017 dataset (DDoS, port scans, brute force, web attacks, botnet) using Random Forest and Gradient Boosting | [Open ↗](https://netwrk-ids.streamlit.app/) |
 
 </td>
 </tr>
 </table>
 
-### 📊 Data & Analytics
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Data Quality Guard
-`OPERATIONAL` · Python · Streamlit · Pandas
-
-Automated CSV auditing and repair pipeline: missing-value detection, string anomalies, duplicate purging, median imputation and a live data health score.
-
-</td>
-<td width="50%" valign="top">
-
-#### [Food Waste Reduction Analytics](https://colab.research.google.com/drive/1XksgrdadLjYUrkZuaukSk3cblKvf20LW)
-`LIVE` · Python · Pandas · NumPy · SQLite3 · Power BI
-
-Kitchen inventory analytics targeting a **40% waste reduction**. Peak-hour waste correlation, seasonal demand distortion, predictive replenishment and overstock flags.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [MedInsight Engine](https://medinsight-engine-hitendra.streamlit.app/)
-`LIVE` · Python · Streamlit
-
-Healthcare-focused analytics and reporting platform with structured health-data insights and AI-assisted report generation.
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-### 🌐 Web
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [MediBook](https://medibook-hitendra.netlify.app/home.html)
-`LIVE` · HTML · CSS · JavaScript · Netlify
-
-Full-stack restaurant discovery and table reservation system. Browse restaurants, book live, mobile-first responsive UI.
-
-</td>
-<td width="50%" valign="top">
-
-#### [Portfolio](https://portfolio.hitendra-24jicys012.workers.dev/)
-`LIVE` · Web Dev · Cloudflare Workers
-
-Live engineering portfolio covering projects, skills and journey.
-
-</td>
-</tr>
-</table>
+> More projects are in progress. Follow the [repositories](https://github.com/Hitendra-Cyber?tab=repositories) for updates.
 
 ---
 
 ## `> cat certifications.log`
 
-### Microsoft Learn: SC-900 Security, Compliance & Identity Fundamentals
-![Progress](https://img.shields.io/badge/SC--900_Track-In_Progress-0a0a0a?style=flat-square&logo=microsoft&logoColor=00FF41)
+### Boot.dev: Backend Development Path
+![Progress](https://img.shields.io/badge/Boot.dev-Currently_Learning-0a0a0a?style=flat-square&logo=gnubash&logoColor=00FF41)
 
-| Module | Completed |
-|:--|:--|
-| ✅ Describe the concepts of cybersecurity | 16 May 2026 |
-| ✅ Describe device-based threats & security controls | 16 May 2026 |
-| ✅ Describe authentication & authorization | 16 May 2026 |
-| ✅ Describe application-based threats & protections | 15 May 2026 |
-| ✅ Describe basic cyber threats, attacks & mitigations | 15 May 2026 |
-| ✅ Describe concepts of cryptography | 15 May 2026 |
+<!--
+═══════════════════════════════════════════════════════════════════
+ HOW TO ADD A NEW CERTIFICATE
+ 1. Copy the template <td> block at the bottom of this comment.
+ 2. Paste it into the next empty cell below (or start a new <tr> row
+    of 3 cells when a row is full).
+ 3. Replace CERT_ID with the ID from your certificate URL:
+        https://www.boot.dev/certificates/CERT_ID
+ 4. Replace COURSE NAME with the course title.
+ 5. If the image does not load, open your certificate on Boot.dev,
+    right-click the certificate image, "Copy image address", and
+    use that full URL as the img src instead.
 
-### Boot.dev: Backend Development Certificates
+ TEMPLATE:
+ <td align="center" width="33%"><a href="https://www.boot.dev/certificates/CERT_ID"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/CERT_ID.jpeg" width="100%"/></a><br/><sub><b>COURSE NAME</b></sub></td>
+═══════════════════════════════════════════════════════════════════
+-->
 
 <table>
 <tr>
@@ -180,6 +137,7 @@ Live engineering portfolio covering projects, skills and journey.
 <tr>
 <td align="center"><a href="https://www.boot.dev/certificates/71166952-8671-447c-975f-33a80d97679c"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/71166952-8671-447c-975f-33a80d97679c.jpeg?v=1791127868" width="100%"/></a><br/><sub><b>Static Site Generator</b></sub></td>
 <td align="center"><a href="https://www.boot.dev/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31.jpeg?v=1792420443" width="100%"/></a><br/><sub><b>Docker</b></sub></td>
+<!-- ▼ NEXT CERTIFICATE GOES HERE (paste the template <td> in this spot) ▼ -->
 <td></td>
 </tr>
 </table>
@@ -204,8 +162,7 @@ Live engineering portfolio covering projects, skills and journey.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hitendra--Cyber-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Hitendra-Cyber)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0a0a0a?style=for-the-badge&logo=cloudflare&logoColor=00FF41)](https://portfolio.hitendra-24jicys012.workers.dev/)
-[![SOC Dashboard](https://img.shields.io/badge/SOC_Dashboard-Live-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=00FF41)](https://threat-soc-dashboard.streamlit.app/)
+[![L.E.X.I.S.](https://img.shields.io/badge/L.E.X.I.S.-Live_Demo-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=00FF41)](https://ai-threat-intelli-sys.streamlit.app/)
 
 *Always learning. Always building. Feedback welcome.*
 
