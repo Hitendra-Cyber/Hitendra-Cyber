@@ -113,6 +113,8 @@ A SOC-style security workspace made of independent ML-powered modules.
     right-click the certificate image, "Copy image address", and
     use that full URL as the img src instead.
 
+
+
  TEMPLATE:
  <td align="center" width="33%"><a href="https://www.boot.dev/certificates/CERT_ID"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/CERT_ID.jpeg" width="100%"/></a><br/><sub><b>COURSE NAME</b></sub></td>
 ═══════════════════════════════════════════════════════════════════
@@ -137,6 +139,14 @@ A SOC-style security workspace made of independent ML-powered modules.
 <tr>
 <td align="center"><a href="https://www.boot.dev/certificates/71166952-8671-447c-975f-33a80d97679c"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/71166952-8671-447c-975f-33a80d97679c.jpeg?v=1791127868" width="100%"/></a><br/><sub><b>Static Site Generator</b></sub></td>
 <td align="center"><a href="https://www.boot.dev/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31.jpeg?v=1792420443" width="100%"/></a><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="33%">
+  <a href="https://www.boot.dev/certificates/cb01bd29-5e49-4791-a4ed-a18794cb98d2">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cb01bd29-5e49-4791-a4ed-a18794cb98d2.jpeg?v=1792431835" width="100%"/>
+  </a>
+  <br/>
+  <sub><b>Learn Memory Management in C</b></sub>
+</td>
+    
 <!-- ▼ NEXT CERTIFICATE GOES HERE (paste the template <td> in this spot) ▼ -->
 <td></td>
 </tr>
