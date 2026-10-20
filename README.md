@@ -1,3 +1,49 @@
+<!--
+╔═══════════════════════════════════════════════════════════════════╗
+║  README MAINTENANCE GUIDE (this comment is invisible on GitHub)   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+ WHAT TO EDIT, SECTION BY SECTION
+
+ 1. TOP BADGES (Location / Status / Learning / Focus)
+    Each badge is a URL: img.shields.io/badge/LABEL-0a0a0a?...
+    Change the text between "badge/" and "-0a0a0a". Use _ for a
+    space and %C2%B7 for the dot separator.
+
+ 2. WHOAMI BLOCK
+    A plain Python-style code block. Edit the text inside the quotes.
+    Keep the commas at the end of each line.
+
+ 3. TECH STACK TABLE
+    Tool badge (dark):
+      ![NAME](https://img.shields.io/badge/NAME-0a0a0a?style=flat-square&logo=LOGO&logoColor=00FF41)
+      LOGO is the icon name from https://simpleicons.org (lowercase).
+    Concept badge (green, no icon):
+      ![NAME](https://img.shields.io/badge/NAME-00FF41?style=flat-square)
+    Use _ for spaces and %26 for &. Delete a line to remove a badge.
+
+ 4. PROJECTS
+    Copy an existing <tr>...</tr> block inside the projects table,
+    change the title, repo link, description and bullet points.
+    Link only to repositories that exist. Add a demo link only when
+    the app is actually running.
+
+ 5. CERTIFICATES
+    Boot.dev, MongoDB and Microsoft each have their own HOW TO ADD
+    comment right above their table.
+
+ 6. GITHUB STATS
+    Uses your username Hitendra-Cyber in each URL. If you ever rename
+    your account, replace the name in all three stat URLs.
+
+ CHECKLIST BEFORE COMMITTING
+  - Every <table> has a matching </table>, every <tr> a </tr>.
+  - No blank lines inside Markdown tables (the | rows).
+  - Preview the README on GitHub (Preview tab) before you commit.
+  - Do not add college names, enrollment numbers or exact coordinates.
+═══════════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00FF41&height=180&section=header&text=Hitendra%20Singh%20Panwar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Cyber%20Defender%20%C2%B7%20AI%20Builder&descAlignY=60&descSize=16" width="100%"/>
@@ -52,7 +98,7 @@ operator = {
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00FF41)
 ![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=00FF41)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=00FF41)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41)
 
@@ -107,7 +153,6 @@ operator = {
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-00FF41?style=flat-square)
 ![Intrusion Detection](https://img.shields.io/badge/Intrusion_Detection-00FF41?style=flat-square)
 ![Phishing Analysis](https://img.shields.io/badge/Phishing_Analysis-00FF41?style=flat-square)
-![Cryptography](https://img.shields.io/badge/Cryptography-00FF41?style=flat-square)
 ![Auth & AuthZ](https://img.shields.io/badge/Auth_%26_AuthZ-00FF41?style=flat-square)
 ![Data Privacy](https://img.shields.io/badge/Data_Privacy_(DPDP)-00FF41?style=flat-square)
 
@@ -178,17 +223,25 @@ A security-operations workspace made of independent ML-powered modules.
 <!--
 ═══════════════════════════════════════════════════════════════════
  HOW TO ADD A NEW BOOT.DEV CERTIFICATE
- 1. Copy the template <td> block at the bottom of this comment.
- 2. Paste it into the next empty cell below (or start a new <tr> row
-    of 3 cells when a row is full).
- 3. Replace CERT_ID with the ID from your certificate URL:
-        https://www.boot.dev/certificates/CERT_ID
- 4. Replace COURSE NAME with the course title.
- 5. If the image does not load, open your certificate on Boot.dev,
-    right-click the certificate image, "Copy image address", and
-    use that full URL as the img src instead.
+ 1. Every row of the table below holds 3 certificates (3 <td> cells).
+ 2. The last row is full. To add a new certificate, go to the line
+    marked "NEXT BOOT.DEV ROW GOES HERE" and paste this block there:
 
- TEMPLATE:
+    <tr>
+    TEMPLATE_CELL
+    </tr>
+
+ 3. For the 2nd and 3rd certificate of that row, paste another
+    TEMPLATE_CELL right after the first one, inside the same <tr>.
+    When a row has 3 cells, start a new <tr> ... </tr> row.
+ 4. In the cell, replace CERT_ID with the ID in your certificate link:
+        https://www.boot.dev/certificates/CERT_ID
+    and replace COURSE NAME with the course title.
+ 5. If the image does not load, open the certificate on Boot.dev,
+    right-click the image, "Copy image address", and use that full
+    URL as the img src instead.
+
+ TEMPLATE_CELL:
  <td align="center" width="33%"><a href="https://www.boot.dev/certificates/CERT_ID"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/CERT_ID.jpeg" width="100%"/></a><br/><sub><b>COURSE NAME</b></sub></td>
 ═══════════════════════════════════════════════════════════════════
 -->
@@ -212,15 +265,33 @@ A security-operations workspace made of independent ML-powered modules.
 <tr>
 <td align="center"><a href="https://www.boot.dev/certificates/71166952-8671-447c-975f-33a80d97679c"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/71166952-8671-447c-975f-33a80d97679c.jpeg?v=1791127868" width="100%"/></a><br/><sub><b>Static Site Generator</b></sub></td>
 <td align="center"><a href="https://www.boot.dev/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31.jpeg?v=1792420443" width="100%"/></a><br/><sub><b>Docker</b></sub></td>
-<!-- ▼ NEXT BOOT.DEV CERTIFICATE GOES HERE (paste the template <td> in this spot) ▼ -->
-<td></td>
+<td align="center"><a href="https://www.boot.dev/certificates/cb01bd29-5e49-4791-a4ed-a18794cb98d2"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cb01bd29-5e49-4791-a4ed-a18794cb98d2.jpeg" width="100%"/></a><br/><sub><b>Memory Management in C</b></sub></td>
 </tr>
+<!-- ▼ NEXT BOOT.DEV ROW GOES HERE (see the "HOW TO ADD" comment above this table) ▼ -->
 </table>
 
 ### 🍃 MongoDB University: Proof of Completion
 ![MongoDB](https://img.shields.io/badge/MongoDB-Currently_Learning-0a0a0a?style=flat-square&logo=mongodb&logoColor=00FF41)
 
-<!-- To add a new MongoDB certificate, copy a row below and fill in the course, date and certificate ID. -->
+<!--
+═══════════════════════════════════════════════════════════════════
+ HOW TO ADD A NEW MONGODB CERTIFICATE
+ 1. Add a new line at the BOTTOM of the table below (newest last):
+
+    | COURSE NAME | DD Mon YYYY | `CERTIFICATE_ID` |
+
+ 2. COURSE NAME : the title written after "For successfully completing"
+                  on the certificate.
+ 3. DD Mon YYYY : the date on the certificate. MongoDB prints it as
+                  MM-DD-YYYY, so 10-07-2026 is written as 7 Oct 2026.
+ 4. CERTIFICATE_ID : the code printed at the bottom right of the
+                  certificate (starts with MDB). Keep the backticks.
+ 5. Keep every line starting and ending with | and do not leave a
+    blank line inside the table, or it will stop rendering.
+ 6. When you finish the whole learning path, change the badge above
+    from "Currently_Learning" to "Completed" (the text in the URL).
+═══════════════════════════════════════════════════════════════════
+-->
 
 | Course | Completed | Certificate ID |
 |:--|:--|:--|
@@ -232,12 +303,21 @@ A security-operations workspace made of independent ML-powered modules.
 
 ### 🟦 Microsoft Learn: Cybersecurity Fundamentals
 
-<!-- To add a new Microsoft certificate, copy a row below and fill in the module and date. -->
+<!--
+═══════════════════════════════════════════════════════════════════
+ HOW TO ADD A NEW MICROSOFT LEARN CERTIFICATE
+ Add a new line at the bottom of the table below:
+
+    | MODULE TITLE | DD Mon YYYY |
+
+ Use the title and date exactly as shown on the Microsoft Learn
+ achievement. No blank lines inside the table.
+═══════════════════════════════════════════════════════════════════
+-->
 
 | Module | Completed |
 |:--|:--|
 | Describe basic cybersecurity threats, attacks, and mitigations | 15 May 2026 |
-| Describe concepts of cryptography | 15 May 2026 |
 | Describe application-based threats and how to protect against them | 15 May 2026 |
 | Describe the concepts of cybersecurity | 16 May 2026 |
 | Describe device-based threats and security controls | 16 May 2026 |
