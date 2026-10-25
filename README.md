@@ -241,8 +241,9 @@ A security-operations workspace made of independent ML-powered modules.
     right-click the image, "Copy image address", and use that full
     URL as the img src instead.
 
+
  TEMPLATE_CELL:
- <td align="center" width="33%"><a href="https://www.boot.dev/certificates/CERT_ID"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/CERT_ID.jpeg" width="100%"/></a><br/><sub><b>COURSE NAME</b></sub></td>
+[![Boot.dev Learn JavaScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8b714054-004b-4220-86d5-7d8b1b041820.jpeg?v=1792924975)](https://www.boot.dev/certificates/8b714054-004b-4220-86d5-7d8b1b041820)
 ═══════════════════════════════════════════════════════════════════
 -->
 
@@ -267,6 +268,9 @@ A security-operations workspace made of independent ML-powered modules.
 <td align="center"><a href="https://www.boot.dev/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0e87d03d-9f28-4d26-a493-82104d3c1e31.jpeg?v=1792420443" width="100%"/></a><br/><sub><b>Docker</b></sub></td>
 <td align="center"><a href="https://www.boot.dev/certificates/cb01bd29-5e49-4791-a4ed-a18794cb98d2"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cb01bd29-5e49-4791-a4ed-a18794cb98d2.jpeg" width="100%"/></a><br/><sub><b>Memory Management in C</b></sub></td>
 </tr>
+ <tr>
+  <td align="center"><a href="https://www.boot.dev/certificates/8b714054-004b-4220-86d5-7d8b1b041820"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8b714054-004b-4220-86d5-7d8b1b041820.jpeg?v=1792924975" width="100%"/></a><br/><sub><b>Learn JavaScript</b></sub></td>
+ </tr>
 <!-- ▼ NEXT BOOT.DEV ROW GOES HERE (see the "HOW TO ADD" comment above this table) ▼ -->
 </table>
 
